@@ -1,0 +1,22 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx3168\clbrdrt\brdrs\cellx9792
+\ql \cell\qc (1)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx3168\cellx9792
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx3168\clbrdrb\brdrs\cellx9792
+\ql VARIABLES\cell\qc Precio del kilo de yerba a precios constantes\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx3168\cellx9792
+\ql \cell\qc \cell\row
+\ql Tratamiento\cell\qc 439.72***\cell\row
+\ql \cell\qc (139.85)\cell\row
+\ql Tendencia\cell\qc -1.81\cell\row
+\ql \cell\qc (1.14)\cell\row
+\ql Tratamiento*Tendencia\cell\qc -16.07***\cell\row
+\ql \cell\qc (5.35)\cell\row
+\ql \cell\qc \cell\row
+\ql Observations\cell\qc 30\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx3168\clbrdrb\brdrs\cellx9792
+\ql R-squared\cell\qc 0.37\cell\row
+\pard\qc
+Errores estandar entre parentesis\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

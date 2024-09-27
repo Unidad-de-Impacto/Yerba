@@ -1,0 +1,15 @@
+		(1)
+VARIABLES	LABELS	Precio del kilo de yerba a precios constantes
+		
+treat	Tratamiento	439.72***
+		(52.43)
+t	Tendencia	-1.81
+		(2.06)
+treat_t	Tratamiento*Tendencia	-16.07***
+		(3.01)
+Constant	Constant	487.82***
+		(24.05)
+		
+Observations		30
+Errores estandar consistentes con heterocedasticidad y autocorrelacion de Newey y West entre parentesis		
+*** p<0.01, ** p<0.05, * p<0.1		
