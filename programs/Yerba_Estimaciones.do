@@ -47,7 +47,7 @@ outreg2 using "$output/yerba_tabla.doc", nocons dec(2) label replace nonotes add
 *Sin estacionalidad:
 reg residuos treat t treat_t
 
-*Realizmaos otras estimaciones para Vestimenta y Calzado para chequear que los resultados son consistentes:
+*Realizmaos otras estimaciones para chequear que los resultados son consistentes:
 extrdate month mes = Periodo 
 extrdate month year = Periodo
 
