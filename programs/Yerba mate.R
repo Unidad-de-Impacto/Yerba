@@ -2,8 +2,6 @@
 #                       Yerba mate
 #     Ministerio de Desregulación y Transformación del Estado
 #           Secretaria de Simplificación del Estado
-#                       Martín Rossi
-#     Autores: Abigail Riquelme y Facundo Gómez García
 #---------------------------------------------------------------#
 
 #install.packages("showtext")
