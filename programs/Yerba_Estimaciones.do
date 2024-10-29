@@ -1,9 +1,7 @@
 /*******************************************************************************
-								Yerba (DNU 70/2023)
+									   Yerba
 			  Ministerio de Desregulación y Transformación del Estado
 					 Secretaria de Simplificación del Estado
-								 Martín Rossi
-				Autores: Abigail Riquelme y Facundo Gómez García
 ********************************************************************************/
 clear all
 set more off
