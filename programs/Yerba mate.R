@@ -17,7 +17,7 @@ library(writexl)
 font_add_google("Montserrat", "montserrat")
 showtext_auto()
 
-setwd("/Users/ariquelme/Downloads")
+setwd("direccion")
 
 yerba_precio <- read_excel("IPCBA_base_2021100-Precios_medios_alim.xlsx", sheet = "Yerba mate")
 yerba_precio <- yerba_precio %>%
